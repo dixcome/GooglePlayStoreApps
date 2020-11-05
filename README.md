@@ -5,5 +5,5 @@ The used dataset is https://www.kaggle.com/lava18/google-play-store-apps Kaggle 
 
 The listed parameters are used for analysis: rating, installs number, size, content rating, reviews, type, price.
 
-The first part of analysis is currently available. It includes: introduction, data description, reseach questions and preparation stages.
-The main tools used are Pandas and Numpy.
+The finished analysis is currently available. It includes: introduction, data description, reseach questions, preparation stages, data analysis and conclusion
+The main tools used are Pandas,Numpy, Seaborn and Matplotlyb modules. The results might be helpful in developing a successful application.
